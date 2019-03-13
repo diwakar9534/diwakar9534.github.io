@@ -102,7 +102,7 @@ span.menu {
   margin-right: 13em;
 }
 .header{
-	background: url(../images/slider_bg.jpg) no-repeat 0px -127px;
+	background: url(../images/diwakar.jpg) no-repeat 0px -127px;
 	
   background-size: cover;
   min-height: 600px;
@@ -240,7 +240,7 @@ label{
 .about-left{
 	float: left;
   width: 22%;
-  background: url(https://github.com/akshatbhalotia/akshatbhalotia.github.io/images/IMG_0661.PNG) no-repeat 0px -80px;
+  background: url(diwakar.jpg) no-repeat 0px -80px;
   min-height: 350px;
   background-size: cover;
 }
